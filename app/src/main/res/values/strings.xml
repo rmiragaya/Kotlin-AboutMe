@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="nombre">Rodrigo Miragaya</string>
+    <string name="star">Star</string>
+    <string name="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec magna magna. Ut interdum risus ante, et sollicitudin ex condimentum eu. Duis dictum felis id urna euismod molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur risus nunc, laoreet quis odio eu, ullamcorper gravida justo. In egestas tortor turpis, nec rhoncus enim ullamcorper et.
+        \nSed venenatis rhoncus molestie.Ut bibendum, erat vel pharetra cursus, leo nisl rutrum ligula, at dignissim metus elit at est. Pellentesque hendrerit scelerisque neque, vitae lacinia arcu.
+        \nAliquam sagittis porta nisi ut sollicitudin. Vivamus justo felis, ultricies faucibus diam vitae, venenatis scelerisque dui.
+        \nInteger accumsan sagittis nulla. Vivamus blandit magna non dolor varius, id laoreet diam pretium.
+        \n\nUt pretium urna felis, fermentum pretium diam fringilla ac. Vestibulum lorem ex, porttitor et sodales non, sollicitudin vel risus. Pellentesque accumsan eu libero imperdiet ullamcorper. Etiam porttitor nisi at eros consequat iaculis. Donec luctus sodales ultrices. Sed finibus convallis velit, sit amet suscipit est ornare vitae. Nullam sit amet nibh consequat lectus euismod rhoncus.</string>
+    <string name="nickname_hint">What\'s your nick name</string>
+    <string name="done">Done</string>
+</resources>
